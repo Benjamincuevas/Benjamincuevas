@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=¡Hola!+👋+Soy+Benjamín;Full-Stack+Developer;Builder+%7C+SomosKaino" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0d1117&center=true&vCenter=true&width=600&lines=¡Hola!+👋+Soy+Benjamín;Full-Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,8 +10,6 @@
 </p>
 
 <br/>
-
-<img align="right" width="380" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Benjamincuevas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff"/>
 
 - 🚀 Construyendo **SomosKaino** – CRM SaaS con IA para WhatsApp
 - 🛠️ Stack principal: TypeScript, Next.js, Python
