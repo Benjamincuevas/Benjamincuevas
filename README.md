@@ -12,8 +12,7 @@
 <br/>
 
 - 🚀 Construyendo **SomosKaino** – CRM SaaS con IA para WhatsApp
-- 🛠️ Stack principal: TypeScript, Next.js, Python
-- 💬 Pregúntame sobre Next.js, Supabase,  WhatsApp API
+- 🛠️ Stack principal: TypeScript, Next.js, Python, Django
 - 📫 benjamincuevas809@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/benjamin-cuevas-255102190)
 
